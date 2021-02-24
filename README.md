@@ -2,7 +2,7 @@
 Hi, I'm Guilherme (he/him). :technologist: <br />
 A software engineer working at [@TallerWebSolutions](https://github.com/TallerWebSolutions) as a full stack developer. :computer: <br />
 I live in Natal, RN in Brazil. :house: <br />
-I'm a huge enthusiastic of modeling, architecting and testing software. Softwares should improve and give value to people's life. 💕
+I'm a huge enthusiast of modeling, architecting and testing software. Softwares should improve and give value to people's life. 💕
 
 ## Tech stack
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="20px" /> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
