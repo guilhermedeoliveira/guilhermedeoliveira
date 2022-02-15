@@ -1,5 +1,5 @@
 # Guilherme de Brito Oliveira
-Hi, I'm Guilherme (he/him). :technologist: <br />
+Hi, I'm Guilherme, but you can call me Guime (he/him). :technologist: <br />
 I live in Natal, RN in Brazil. :house: <br />
 I'm a huge enthusiast in modeling, architecting and testing. Software is all about improving people's lives. 💕
 
