@@ -1,6 +1,5 @@
 # Guilherme de Brito Oliveira
 Hi, I'm Guilherme (he/him). :technologist: <br />
-A software engineer working at [@TallerWebSolutions](https://github.com/TallerWebSolutions) as a full stack developer. :computer: <br />
 I live in Natal, RN in Brazil. :house: <br />
 I'm a huge enthusiast in modeling, architecting and testing. Software is all about improving people's lives. 💕
 
