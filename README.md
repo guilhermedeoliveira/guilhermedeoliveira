@@ -1,7 +1,5 @@
 # Guilherme de Brito Oliveira
-Hi, I'm Guilherme, but you can call me Guime (he/him). :technologist: <br />
-I live in Natal, RN in Brazil. :house: <br />
-I'm a huge enthusiast in modeling, architecting and testing. Software is all about improving people's lives. 💕
+I'm passionate about modeling, architecting, and testing. For me, software is all about enhancing people's lives. 💕
 
 ## Tech stack
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="20px" /> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
