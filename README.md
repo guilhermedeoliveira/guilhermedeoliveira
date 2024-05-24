@@ -1,5 +1,5 @@
 # Guilherme de Brito Oliveira
-I'm passionate about modeling, architecting, and testing. For me, software is all about enhancing people's lives. 💕
+I'm passionate about modeling, architecting, and testing. For me, software is all about enhancing people's lives.
 
 ## Tech stack
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="20px" /> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
